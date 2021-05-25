@@ -22,4 +22,4 @@ Project repos
 - pm-s03-g02-project
 - pm-s03-g03-project
 - pm-s03-g04-project
-- pm-s03-g05-project
+- [pm-s03-g05-project](https://github.com/GUNDAANUTEJ/pm-s03-g05-project)
