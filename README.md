@@ -18,7 +18,7 @@ Project repos
 
 Project repos
 
-- pm-s03-g01-project
+- [pm-s03-g01-project](https://github.com/giridhar196/pm-s03-g01-project)
 - pm-s03-g02-project
 - pm-s03-g03-project
 - pm-s03-g04-project
