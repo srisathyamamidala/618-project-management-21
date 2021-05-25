@@ -3,50 +3,29 @@ Repo for student project managers
 
 ## AM Section 04
 
-### Group AM1
+Project repos
 
-
-### Group AM2
-
-
-### Group AM3
-
-
-### Group AM4
-
-
-### Group AM5
-
-
-### Group AM9
-
+- pm-s04-g01-project
+- pm-s04-g02-project
+- pm-s04-g03-project
+- pm-s04-g04-project
+- pm-s04-g05-project
+- pm-s04-g06-project
+- pm-s04-g07-project
 
 ## PM Section 03
 
-### Group PM1
+Project repos
 
-
-### Group PM2
-
-
-### Group PM3
-
-
-### Group PM4
-
-
-### Group PM5
-
+- pm-s03-g01-project
+- pm-s03-g02-project
+- pm-s03-g03-project
+- pm-s03-g04-project
+- pm-s03-g05-project
 
 ### Group PM9
 
 #### Venkateswararao
 
-
-
 #### Keerthi
-
-
-
-
 
