@@ -12,7 +12,7 @@ Project repos
 - [pm-s04-g04-project](https://github.com/pramod096/pm-s04-g04-project)
 - pm-s04-g05-project
 - pm-s04-g06-project
-- pm-s04-g07-project
+- [pm-s04-g07-project](https://github.com/Rohitreddz/pm-s04-g07-project)
 
 ## PM Section 03
 
